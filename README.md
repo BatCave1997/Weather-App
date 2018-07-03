@@ -6,8 +6,8 @@ IDE : Android Studio<br/>
 Language : Java<br/>
 SDK : OpenWeatherMap APi<br/>
 
-Project Start Date : 15 June, 2018<br/>
-Project End Date : 15 June, 2018<br/>
+Project Start Date : 13 June, 2018<br/>
+Project End Date : 13 June, 2018<br/>
 
 Role : Designer, Developer, Tester<br/>
 
